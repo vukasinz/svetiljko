@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: c6a103964206dfc4bbe12d1de717486c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: budilnikSvetiljko_Frame_0
+    originalName: 
+    pivot: {x: 0.375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 94
+      width: 16
+      height: 25
+    spriteID: b4423d87b21c025478ebc37c24ade6dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 94}
+  - name: budilnikSvetiljko_Frame_1
+    originalName: 
+    pivot: {x: 0.3888889, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 94
+      width: 18
+      height: 28
+    spriteID: aa6c5e0071737434a9c7e9b6f82bbc9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 94}
+  - name: budilnikSvetiljko_Frame_2
+    originalName: 
+    pivot: {x: 0.40625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 4
+      width: 32
+      height: 32
+    spriteID: bd86a3e3026f2be4c8be12e63611ef8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 4}
+  - name: budilnikSvetiljko_Frame_3
+    originalName: 
+    pivot: {x: 0.4883721, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 50
+      width: 43
+      height: 35
+    spriteID: d60316d2ddae6344abd1762b2f01407e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 50}
+  - name: budilnikSvetiljko_Frame_4
+    originalName: 
+    pivot: {x: 0.48, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 138
+      width: 50
+      height: 37
+    spriteID: be53cd9009add084794c8085bc507832
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 138}
+  - name: budilnikSvetiljko_Frame_5
+    originalName: 
+    pivot: {x: 0.48076925, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 183
+      width: 52
+      height: 35
+    spriteID: ec807e1eebfcda740be5dbcf3f94fc64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 183}
+  - name: budilnikSvetiljko_Frame_6
+    originalName: 
+    pivot: {x: 0.45762712, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 138
+      width: 59
+      height: 37
+    spriteID: 4c41ff1f8db1ad447af970da045acc61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 138}
+  - name: budilnikSvetiljko_Frame_7
+    originalName: 
+    pivot: {x: 0.45762712, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 183
+      width: 59
+      height: 37
+    spriteID: 35842324bcf04a1478433085ec4fa57b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 183}
+  - name: budilnikSvetiljko_Frame_8
+    originalName: 
+    pivot: {x: 0.4375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 50
+      width: 64
+      height: 36
+    spriteID: 8802cc5e3889e2b46926cea7ef3af5fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 50}
+  - name: budilnikSvetiljko_Frame_9
+    originalName: 
+    pivot: {x: 0.4375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 94
+      width: 64
+      height: 36
+    spriteID: b89e5e8b424cd8147a84b2e1fdbb548f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 94}
+  - name: budilnikSvetiljko_Frame_10
+    originalName: 
+    pivot: {x: 0.41333336, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 75
+      height: 38
+    spriteID: 52391b1b3b523274e961e6bc2b86e2ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: budilnikSvetiljko_Frame_11
+    originalName: 
+    pivot: {x: -5.3333335, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 127
+      width: 3
+      height: 1
+    spriteID: d649f1e555ed69c43b29ed68409969af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 127}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1687374363
+    name: budilnikSvetiljko
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: budilnikSvetiljko_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 58
+        y: 0
+        width: 16
+        height: 25
+      spriteId: b4423d87b21c025478ebc37c24ade6dc
+    - name: budilnikSvetiljko_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 57
+        y: 0
+        width: 18
+        height: 28
+      spriteId: aa6c5e0071737434a9c7e9b6f82bbc9b
+    - name: budilnikSvetiljko_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 51
+        y: 0
+        width: 32
+        height: 32
+      spriteId: bd86a3e3026f2be4c8be12e63611ef8e
+    - name: budilnikSvetiljko_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 43
+        y: 0
+        width: 43
+        height: 35
+      spriteId: d60316d2ddae6344abd1762b2f01407e
+    - name: budilnikSvetiljko_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 40
+        y: 0
+        width: 50
+        height: 37
+      spriteId: be53cd9009add084794c8085bc507832
+    - name: budilnikSvetiljko_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 39
+        y: 0
+        width: 52
+        height: 35
+      spriteId: ec807e1eebfcda740be5dbcf3f94fc64
+    - name: budilnikSvetiljko_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 37
+        y: 0
+        width: 59
+        height: 37
+      spriteId: 4c41ff1f8db1ad447af970da045acc61
+    - name: budilnikSvetiljko_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 37
+        y: 0
+        width: 59
+        height: 37
+      spriteId: 35842324bcf04a1478433085ec4fa57b
+    - name: budilnikSvetiljko_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 36
+        y: 0
+        width: 64
+        height: 36
+      spriteId: 8802cc5e3889e2b46926cea7ef3af5fe
+    - name: budilnikSvetiljko_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 36
+        y: 0
+        width: 64
+        height: 36
+      spriteId: b89e5e8b424cd8147a84b2e1fdbb548f
+    - name: budilnikSvetiljko_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 33
+        y: 0
+        width: 75
+        height: 38
+      spriteId: 52391b1b3b523274e961e6bc2b86e2ff
+    - name: budilnikSvetiljko_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 80
+        y: 0
+        width: 3
+        height: 1
+      spriteId: d649f1e555ed69c43b29ed68409969af
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 128}

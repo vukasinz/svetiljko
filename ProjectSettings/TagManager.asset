@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - teleport
+  - EnemyTall
+  - fragment
+  - g
+  - fragment1nivo
+  - Enemy
+  - Budilnik
+  - Mesto
+  - bell
+  - Patrolni
+  - NotPlayer
+  - cat
+  - oci
+  - zvonoSvetla
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Ground
+  - Staticno
+  - svetiljke
+  - Player
+  - Enemys
+  - cat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: staticno
+    uniqueID: 1733612437
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
